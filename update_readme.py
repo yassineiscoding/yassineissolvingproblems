@@ -43,12 +43,12 @@ def generate_readme(solved_problems, difficulty_count, latest_submission, output
     
     total_solved = sum(difficulty_count.values())
     stats_section = f"""
-    ## LeetCode Progress
-    
-    - **Total Problems Solved:** {total_solved}
-    - **Easy:** {difficulty_count['Easy']} 🟢
-    - **Medium:** {difficulty_count['Medium']} 🟡
-    - **Hard:** {difficulty_count['Hard']} 🔴
+## LeetCode Progress
+
+- **Total Problems Solved:** {total_solved}
+- **Easy:** {difficulty_count['Easy']} 🟢
+- **Medium:** {difficulty_count['Medium']} 🟡
+- **Hard:** {difficulty_count['Hard']} 🔴
     """
     
     if latest_submission:
