@@ -56,12 +56,12 @@ def generate_readme(solved_problems, difficulty_count, latest_submission, output
 ### Most Recent Submission
 - **Problem:** [{latest_submission[0]}]({latest_submission[1]})
 - **Submitted On:** {latest_submission[2]}
-        """ß
+        """
     else:
         latest_section = "### Most Recent Submission\n_No recent submissions found._"
     
     problem_list = "\n".join([f"- {difficulty_icons.get(d, '')} {p}" for d, p in sorted(solved_problems)])
-    problem_section = f"""
+    problem_section = f"""ß
     ## Solved Problems
     {problem_list if problem_list else "No problems solved yet."}
     """
