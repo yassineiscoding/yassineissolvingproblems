@@ -53,10 +53,10 @@ def generate_readme(solved_problems, difficulty_count, latest_submission, output
     
     if latest_submission:
         latest_section = f"""
-        ### Most Recent Submission
-        - **Problem:** [{latest_submission[0]}]({latest_submission[1]})
-        - **Submitted On:** {latest_submission[2]}
-        """
+### Most Recent Submission
+- **Problem:** [{latest_submission[0]}]({latest_submission[1]})
+- **Submitted On:** {latest_submission[2]}
+        """ß
     else:
         latest_section = "### Most Recent Submission\n_No recent submissions found._"
     
