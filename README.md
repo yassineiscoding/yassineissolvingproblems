@@ -1,16 +1,16 @@
 
-    ## LeetCode Progress
-    
-    - **Total Problems Solved:** 18
-    - **Easy:** 11 🟢
-    - **Medium:** 7 🟡
-    - **Hard:** 0 🔴
+## LeetCode Progress
+
+- **Total Problems Solved:** 18
+- **Easy:** 11 🟢
+- **Medium:** 7 🟡
+- **Hard:** 0 🔴
     
 
 
-        ### Most Recent Submission
-        - **Problem:** [0007-reverse-integer](0007-reverse-integer)
-        - **Submitted On:** 2025-03-21 21:26:20
+### Most Recent Submission
+- **Problem:** [0007-reverse-integer](0007-reverse-integer)
+- **Submitted On:** 2025-03-22 12:23:41
         
 
 
