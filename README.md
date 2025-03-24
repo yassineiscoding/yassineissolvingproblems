@@ -1,8 +1,8 @@
 
 ## LeetCode Progress
 
-- **Total Problems Solved:** 19
-- **Easy:** 11 🟢
+- **Total Problems Solved:** 20
+- **Easy:** 12 🟢
 - **Medium:** 8 🟡
 - **Hard:** 0 🔴
     
@@ -10,7 +10,7 @@
 
 ### Most Recent Submission
 - **Problem:** [0007-reverse-integer](0007-reverse-integer)
-- **Submitted On:** 2025-03-24 12:03:01
+- **Submitted On:** 2025-03-24 12:03:18
         
 
 
@@ -18,6 +18,7 @@
     - 🟢 [0013-roman-to-integer](0013-roman-to-integer)
 - 🟢 [0014-longest-common-prefix](0014-longest-common-prefix)
 - 🟢 [0121-best-time-to-buy-and-sell-stock](0121-best-time-to-buy-and-sell-stock)
+- 🟢 [0125-valid-palindrome](0125-valid-palindrome)
 - 🟢 [0169-majority-element](0169-majority-element)
 - 🟢 [0228-summary-ranges](0228-summary-ranges)
 - 🟢 [0242-valid-anagram](0242-valid-anagram)
