@@ -1,16 +1,16 @@
 
 ## LeetCode Progress
 
-- **Total Problems Solved:** 18
+- **Total Problems Solved:** 19
 - **Easy:** 11 🟢
-- **Medium:** 7 🟡
+- **Medium:** 8 🟡
 - **Hard:** 0 🔴
     
 
 
 ### Most Recent Submission
 - **Problem:** [0007-reverse-integer](0007-reverse-integer)
-- **Submitted On:** 2025-03-24 11:47:50
+- **Submitted On:** 2025-03-24 11:48:04
         
 
 
@@ -30,6 +30,7 @@
 - 🟡 [0036-valid-sudoku](0036-valid-sudoku)
 - 🟡 [0049-group-anagrams](0049-group-anagrams)
 - 🟡 [0128-longest-consecutive-sequence](0128-longest-consecutive-sequence)
+- 🟡 [0167-two-sum-ii-input-array-is-sorted](0167-two-sum-ii-input-array-is-sorted)
 - 🟡 [0238-product-of-array-except-self](0238-product-of-array-except-self)
 - 🟡 [0287-find-the-duplicate-number](0287-find-the-duplicate-number)
 - 🟡 [0347-top-k-frequent-elements](0347-top-k-frequent-elements)
